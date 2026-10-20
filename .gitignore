@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+
+# Ignore the apps directory where uploaded files are stored
+apps/
+apps/*

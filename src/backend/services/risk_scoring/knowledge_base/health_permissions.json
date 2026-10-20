@@ -1,0 +1,26 @@
+{
+  "android.permission.health.READ_BLOOD_GLUCOSE": {
+    "category": "health",
+    "description": "Read blood glucose data"
+  },
+  "android.permission.health.READ_BLOOD_PRESSURE": {
+    "category": "health",
+    "description": "Read blood pressure data"
+  },
+  "android.permission.health.READ_HEART_RATE": {
+    "category": "health",
+    "description": "Read heart rate data"
+  },
+  "android.permission.health.READ_SLEEP": {
+    "category": "health",
+    "description": "Read sleep data"
+  },
+  "android.permission.health.READ_STEPS": {
+    "category": "health",
+    "description": "Read step count data"
+  },
+  "android.permission.health.READ_WEIGHT": {
+    "category": "health",
+    "description": "Read body weight data"
+  }
+}

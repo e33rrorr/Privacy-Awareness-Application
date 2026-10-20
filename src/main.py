@@ -3,10 +3,12 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 from backend.routes.risk_scoring import risk_router
+from backend.routes.scan import scan_router
 
 app = FastAPI()
 
 app.include_router(risk_router)
+app.include_router(scan_router)
 
 origins = [
     "http://localhost",
