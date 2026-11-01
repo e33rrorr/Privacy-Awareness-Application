@@ -1,0 +1,119 @@
+
+{
+  "android.permission.READ_CALENDAR": {
+    "category": "calendar",
+    "description": "Read calendar events"
+  },
+  "android.permission.WRITE_CALENDAR": {
+    "category": "calendar",
+    "description": "Modify calendar events"
+  },
+
+
+  "android.permission.CAMERA": {
+    "category": "camera",
+    "description": "Access the device camera"
+  },
+
+
+  "android.permission.READ_CALL_LOG": {
+    "category": "call_logs",
+    "description": "Read call history"
+  },
+  "android.permission.WRITE_CALL_LOG": {
+    "category": "call_logs",
+    "description": "Modify call history"
+  },
+
+
+  "android.permission.READ_CONTACTS": {
+    "category": "contacts",
+    "description": "Read contacts"
+  },
+  "android.permission.WRITE_CONTACTS": {
+    "category": "contacts",
+    "description": "Modify contacts"
+  },
+
+
+  "android.permission.ACCESS_BACKGROUND_LOCATION": {
+    "category": "location",
+    "description": "Access location in the background"
+  },
+  "android.permission.ACCESS_COARSE_LOCATION": {
+    "category": "location",
+    "description": "Access approximate location"
+  },
+  "android.permission.ACCESS_FINE_LOCATION": {
+    "category": "location",
+    "description": "Access precise location"
+  },
+
+
+  "android.permission.ACCESS_MEDIA_LOCATION": {
+    "category": "media",
+    "description": "Read location metadata stored in media"
+  },
+  "android.permission.READ_MEDIA_AUDIO": {
+    "category": "media",
+    "description": "Read shared audio files"
+  },
+  "android.permission.READ_MEDIA_IMAGES": {
+    "category": "media",
+    "description": "Read shared images"
+  },
+  "android.permission.READ_MEDIA_VIDEO": {
+    "category": "media",
+    "description": "Read shared videos"
+  },
+  "android.permission.READ_MEDIA_VISUAL_USER_SELECTED": {
+    "category": "media",
+    "description": "Access user-selected images and videos"
+  },
+
+
+  "android.permission.RECORD_AUDIO": {
+    "category": "microphone",
+    "description": "Record audio using the microphone"
+  },
+
+
+  "android.permission.BLUETOOTH_CONNECT": {
+    "category": "nearby_devices",
+    "description": "Connect to paired Bluetooth devices"
+  },
+  "android.permission.BLUETOOTH_SCAN": {
+    "category": "nearby_devices",
+    "description": "Discover nearby Bluetooth devices"
+  },
+
+
+  "android.permission.CALL_PHONE": {
+    "category": "phone",
+    "description": "Make phone calls directly"
+  },
+  "android.permission.READ_PHONE_STATE": {
+    "category": "phone",
+    "description": "Read phone state information"
+  },
+
+
+  "android.permission.BODY_SENSORS": {
+    "category": "sensors",
+    "description": "Access body sensor information"
+  },
+
+
+  "android.permission.READ_SMS": {
+    "category": "sms",
+    "description": "Read SMS messages"
+  },
+  "android.permission.RECEIVE_SMS": {
+    "category": "sms",
+    "description": "Receive SMS messages"
+  },
+  "android.permission.SEND_SMS": {
+    "category": "sms",
+    "description": "Send SMS messages"
+  }
+}
