@@ -2,118 +2,142 @@
 {
   "android.permission.READ_CALENDAR": {
     "category": "calendar",
-    "description": "Read calendar events"
+    "description": "Read calendar events",
+    "what_to_consider": "Does this app need to see your calendar for a feature you use, like scheduling or reminders? If not, consider denying access."
   },
   "android.permission.WRITE_CALENDAR": {
     "category": "calendar",
-    "description": "Modify calendar events"
+    "description": "Modify calendar events",
+    "what_to_consider": "Does this app need to add or change events in your calendar, for example to save a booking? If you don't use a feature like that, consider denying access."
   },
 
 
   "android.permission.CAMERA": {
     "category": "camera",
-    "description": "Access the device camera"
+    "description": "Access the device camera",
+    "what_to_consider": "Do you use this app to take photos, record videos or scan codes? If not, consider denying camera access. You can allow it later if you need it."
   },
 
 
   "android.permission.READ_CALL_LOG": {
     "category": "call_logs",
-    "description": "Read call history"
+    "description": "Read call history",
+    "what_to_consider": "Does this app need to see who you have called and who has called you, for example to block spam calls? If not, consider denying access."
   },
   "android.permission.WRITE_CALL_LOG": {
     "category": "call_logs",
-    "description": "Modify call history"
+    "description": "Modify call history",
+    "what_to_consider": "Does this app need to add or delete entries in your call history? This is usually only needed by phone or calling apps. If this app isn't one, consider denying access."
   },
 
 
   "android.permission.READ_CONTACTS": {
     "category": "contacts",
-    "description": "Read contacts"
+    "description": "Read contacts",
+    "what_to_consider": "Does this app need your contacts for a feature you use, such as finding friends or sharing? If not, consider denying access."
   },
   "android.permission.WRITE_CONTACTS": {
     "category": "contacts",
-    "description": "Modify contacts"
+    "description": "Modify contacts",
+    "what_to_consider": "Does this app need to add or change the contacts saved on your phone? If you don't use a feature like saving or syncing contacts, consider denying access."
   },
 
 
   "android.permission.ACCESS_BACKGROUND_LOCATION": {
     "category": "location",
-    "description": "Access location in the background"
+    "description": "Access location in the background",
+    "what_to_consider": "Does this app need to know where you are even when you're not using it, for example for location alerts? If not, choose \"Allow only while using the app\"."
   },
   "android.permission.ACCESS_COARSE_LOCATION": {
     "category": "location",
-    "description": "Access approximate location"
+    "description": "Access approximate location",
+    "what_to_consider": "Does this app need to know your general area, for example to show local weather or nearby shops? If not, consider denying location access."
   },
   "android.permission.ACCESS_FINE_LOCATION": {
     "category": "location",
-    "description": "Access precise location"
+    "description": "Access precise location",
+    "what_to_consider": "Does this app need your exact location, for example for maps or directions? If your general area is enough, turn off \"Use precise location\"."
   },
 
 
   "android.permission.ACCESS_MEDIA_LOCATION": {
     "category": "media",
-    "description": "Read location metadata stored in media"
+    "description": "Read location metadata stored in media",
+    "what_to_consider": "Your photos can record where they were taken. Does this app need that information, for example to show your photos on a map? If not, be mindful of which photos you share with it."
   },
   "android.permission.READ_MEDIA_AUDIO": {
     "category": "media",
-    "description": "Read shared audio files"
+    "description": "Read shared audio files",
+    "what_to_consider": "Does this app need to play or use the music and audio files on your phone? If not, consider denying access."
   },
   "android.permission.READ_MEDIA_IMAGES": {
     "category": "media",
-    "description": "Read shared images"
+    "description": "Read shared images",
+    "what_to_consider": "Does this app need to see your photos, for example to post or edit them? If it only needs a few, choose to select specific photos instead of allowing all of them, if your phone offers this."
   },
   "android.permission.READ_MEDIA_VIDEO": {
     "category": "media",
-    "description": "Read shared videos"
+    "description": "Read shared videos",
+    "what_to_consider": "Does this app need to see your videos, for example to post or edit them? If it only needs a few, choose to select specific videos instead of allowing all of them, if your phone offers this."
   },
   "android.permission.READ_MEDIA_VISUAL_USER_SELECTED": {
     "category": "media",
-    "description": "Access user-selected images and videos"
+    "description": "Access user-selected images and videos",
+    "what_to_consider": "This lets the app see only the photos and videos you pick. Check which ones you have shared, and only select what the app needs."
   },
 
 
   "android.permission.RECORD_AUDIO": {
     "category": "microphone",
-    "description": "Record audio using the microphone"
+    "description": "Record audio using the microphone",
+    "what_to_consider": "Do you use this app for calls, voice messages or recording? If not, consider denying microphone access. Your phone may show a green dot while the microphone is in use."
   },
 
 
   "android.permission.BLUETOOTH_CONNECT": {
     "category": "nearby_devices",
-    "description": "Connect to paired Bluetooth devices"
+    "description": "Connect to paired Bluetooth devices",
+    "what_to_consider": "Do you use this app with a Bluetooth device, such as headphones, a watch or a speaker? If not, consider denying access."
   },
   "android.permission.BLUETOOTH_SCAN": {
     "category": "nearby_devices",
-    "description": "Discover nearby Bluetooth devices"
+    "description": "Discover nearby Bluetooth devices",
+    "what_to_consider": "Does this app need to find nearby Bluetooth devices, for example to set up a new gadget? Nearby devices can hint at where you are, so if you don't use this, consider denying access."
   },
 
 
   "android.permission.CALL_PHONE": {
     "category": "phone",
-    "description": "Make phone calls directly"
+    "description": "Make phone calls directly",
+    "what_to_consider": "Does this app need to make phone calls for you, for example to call a business with one tap? Calls may cost money, so if you don't use this, consider denying access."
   },
   "android.permission.READ_PHONE_STATE": {
     "category": "phone",
-    "description": "Read phone state information"
+    "description": "Read phone state information",
+    "what_to_consider": "This can show your network details and whether you are on a call. Does the app need this for a feature you use, such as pausing audio during calls? If not, consider denying access."
   },
 
 
   "android.permission.BODY_SENSORS": {
     "category": "sensors",
-    "description": "Access body sensor information"
+    "description": "Access body sensor information",
+    "what_to_consider": "Do you use this app with a fitness tracker or watch to measure things like your heart rate? If not, consider denying access."
   },
 
 
   "android.permission.READ_SMS": {
     "category": "sms",
-    "description": "Read SMS messages"
+    "description": "Read SMS messages",
+    "what_to_consider": "Does this app need to read your text messages, for example because it is your messaging app? Texts can contain private details and login codes, so if not, consider denying access."
   },
   "android.permission.RECEIVE_SMS": {
     "category": "sms",
-    "description": "Receive SMS messages"
+    "description": "Receive SMS messages",
+    "what_to_consider": "Does this app need to receive text messages, for example to fill in a verification code for you? If you're happy to type codes yourself, consider denying access."
   },
   "android.permission.SEND_SMS": {
     "category": "sms",
-    "description": "Send SMS messages"
+    "description": "Send SMS messages",
+    "what_to_consider": "Does this app need to send text messages for you? Texts may cost money, so if you don't use a feature like this, consider denying access."
   }
 }

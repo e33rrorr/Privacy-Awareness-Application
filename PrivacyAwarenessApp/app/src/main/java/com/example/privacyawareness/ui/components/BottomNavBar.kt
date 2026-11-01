@@ -1,10 +1,7 @@
 package com.example.privacyawareness.ui.components
-
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.List
 import androidx.compose.material.icons.filled.GridView
-import androidx.compose.material.icons.filled.Info
-import androidx.compose.material.icons.filled.Settings
 import androidx.compose.material3.Icon
 import androidx.compose.material3.NavigationBar
 import androidx.compose.material3.NavigationBarItem
@@ -15,6 +12,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.privacyawareness.ui.navigation.Destination
 
+// Bar at the bottom of the screen for switching between tabs.
 @Composable
 fun BottomNavBar(
     selectedDestination: Destination,
@@ -46,21 +44,6 @@ fun BottomNavBar(
         )
 
         NavigationBarItem(
-            selected = selectedDestination == Destination.Insights,
-            onClick = { onDestinationSelected(Destination.Insights) },
-            icon = {
-                Icon(
-                    imageVector = Icons.Default.Info,
-                    contentDescription = "Insights"
-                )
-            },
-            label = {
-                Text("Insights")
-            },
-            colors = selectedColors
-        )
-
-        NavigationBarItem(
             selected = selectedDestination == Destination.Policies,
             onClick = { onDestinationSelected(Destination.Policies) },
             icon = {
@@ -71,21 +54,6 @@ fun BottomNavBar(
             },
             label = {
                 Text("Policies")
-            },
-            colors = selectedColors
-        )
-
-        NavigationBarItem(
-            selected = selectedDestination == Destination.Settings,
-            onClick = { onDestinationSelected(Destination.Settings) },
-            icon = {
-                Icon(
-                    imageVector = Icons.Default.Settings,
-                    contentDescription = "Settings"
-                )
-            },
-            label = {
-                Text("Settings")
             },
             colors = selectedColors
         )

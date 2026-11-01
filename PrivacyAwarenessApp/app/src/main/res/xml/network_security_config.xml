@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+
+    <!-- Android blocks plain http:// by default. The local FastAPI
+         backend doesn't use https, so allow http only for 10.0.2.2
+         (the emulator's address for your computer). Every other
+         address still requires https. -->
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="false">10.0.2.2</domain>
+    </domain-config>
+
+</network-security-config>

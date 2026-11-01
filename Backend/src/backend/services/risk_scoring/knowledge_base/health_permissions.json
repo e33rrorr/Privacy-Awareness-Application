@@ -1,26 +1,32 @@
 {
   "android.permission.health.READ_BLOOD_GLUCOSE": {
     "category": "health",
-    "description": "Read blood glucose data"
+    "description": "Read blood glucose data",
+    "what_to_consider": "Do you use this app to track your blood sugar, for example to manage diabetes? Health data is very personal, so if not, consider denying access."
   },
   "android.permission.health.READ_BLOOD_PRESSURE": {
     "category": "health",
-    "description": "Read blood pressure data"
+    "description": "Read blood pressure data",
+    "what_to_consider": "Do you use this app to track your blood pressure? Health data is very personal, so if not, consider denying access."
   },
   "android.permission.health.READ_HEART_RATE": {
     "category": "health",
-    "description": "Read heart rate data"
+    "description": "Read heart rate data",
+    "what_to_consider": "Do you use this app to track your heart rate, for example during exercise? If not, consider denying access."
   },
   "android.permission.health.READ_SLEEP": {
     "category": "health",
-    "description": "Read sleep data"
+    "description": "Read sleep data",
+    "what_to_consider": "Do you use this app to track or improve your sleep? If not, consider denying access to your sleep data."
   },
   "android.permission.health.READ_STEPS": {
     "category": "health",
-    "description": "Read step count data"
+    "description": "Read step count data",
+    "what_to_consider": "Do you use this app to count your steps or track your activity? If not, consider denying access."
   },
   "android.permission.health.READ_WEIGHT": {
     "category": "health",
-    "description": "Read body weight data"
+    "description": "Read body weight data",
+    "what_to_consider": "Do you use this app to track your weight, for example for fitness or diet goals? If not, consider denying access."
   }
 }
