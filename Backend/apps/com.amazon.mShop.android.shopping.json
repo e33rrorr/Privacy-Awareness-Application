@@ -1,0 +1,16 @@
+[
+  "android.permission.ACCESS_COARSE_LOCATION",
+  "android.permission.ACCESS_FINE_LOCATION",
+  "android.permission.BLUETOOTH_CONNECT",
+  "android.permission.BLUETOOTH_SCAN",
+  "android.permission.CAMERA",
+  "android.permission.READ_CONTACTS",
+  "android.permission.READ_PHONE_STATE",
+  "android.permission.RECORD_AUDIO",
+  "android.permission.health.READ_BLOOD_GLUCOSE",
+  "android.permission.health.READ_BLOOD_PRESSURE",
+  "android.permission.health.READ_HEART_RATE",
+  "android.permission.health.READ_SLEEP",
+  "android.permission.health.READ_STEPS",
+  "android.permission.health.READ_WEIGHT"
+]

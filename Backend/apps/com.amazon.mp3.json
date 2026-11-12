@@ -1,0 +1,7 @@
+[
+  "android.permission.BLUETOOTH_CONNECT",
+  "android.permission.BLUETOOTH_SCAN",
+  "android.permission.CAMERA",
+  "android.permission.READ_MEDIA_AUDIO",
+  "android.permission.RECORD_AUDIO"
+]

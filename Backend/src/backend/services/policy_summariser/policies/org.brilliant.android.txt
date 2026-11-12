@@ -1,0 +1,189 @@
+Privacy Policy
+Effective as of: August 18, 2026
+
+PRIVACY SNAPSHOT
+
+Brilliant Worldwide, Inc. ("Brilliant") offers digital interactive STEM learning experiences to students, professionals, and lifelong learners around the world.
+
+Brilliant knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about how we handle personal information in connection with the brilliant.org website, our publicly available mobile applications (available via the App Store and Google Play Store), and any related services and/or features (collectively, the "Service"). This Privacy Policy does not apply to the Brilliant for Educators program. To learn about the privacy practices of the Brilliant for Educators program, please click here.
+
+If you are a parent or guardian, or a child using the Services, our Children's Privacy section explains what personal information we collect from children under 13, how we use, share and retain it, and the rights available to parents and guardians; click this link to go directly to that section.
+
+Personal Information We Collect
+Personal information you provide:
+
+Contact details, such as your first and last name and mailing and email addresses.
+Account information, such as your profile picture and age.
+Usage information, including the courses you have accessed, your progress on those courses, the content you have reviewed, and your interactions with our AI chat feature (including multi-media inputs such as text, voice, image, video and documents (such as PDFs) inputs).
+AI chat content, including multi-media inputs such as text, voice, image, and video and documents (such as PDFs), which we collect and process when you use our AI chat feature that allows you to interact with AI-powered learning tools, including through spoken commands or questions ("Voice Input"). The text transcriptions generated from your Voice Input are treated as chat messages. When you use our AI chat feature, we collect and store:
+Messages: Both your messages (including those generated from Voice Input) and AI responses
+Usage data: Information about how you interact with the AI features
+No model training: we do not use or allow your AI chat data to be used to train any third-party AI models. We use your AI chat data solely to improve our own AI features and Services.
+When you use Voice Input:
+Permission Required: We will require your explicit permission through your device's microphone access controls. You must actively grant permission each time you wish to use this feature. You can revoke microphone access through your device settings at any time.
+Service Availability: If you do not grant microphone permission, you can still use our AI chat features through text input.
+Third-Party Processing: To convert your speech into text, your voice recordings will be processed by a third-party speech-to-text service provider that will process the recordings solely to provide us with the speech recognition service.
+No Voice Storage: We will not store or retain your Voice Input. Voice Input is processed only to generate text transcriptions, and is immediately discarded.
+Subscription information, such as the type of subscription you choose, the user profile the subscription relates to and the date the subscription expires.
+Payment information that our payment service providers collect to process your subscriptions, including name, payment card information and billing information. We do not store payment card numbers on our systems. The information you provide in connection with your purchases is handled by our third-party payment processors in accordance with their terms of service and privacy policies.
+Survey information that you provide when you respond to our survey questions about your progress and preferences.
+User Research Information. We may invite you by email to participate in user research studies conducted by Brilliant or a third-party partner on behalf of Brilliant. If you choose to participate, Brilliant will collect and analyze the data from those studies, and will require your consent to record the session if the survey is conducted by phone or video call. If an invitation is sent to a child under 13, Brilliant will obtain verifiable parental consent as required by law before engaging the child in the study. You may revoke your consent to participate or have your child participate in a survey at any time by emailing or writing to us as provided in the How to Contact Us section below.
+Communications that we exchange with you, including when you contact us with questions, feedback or otherwise.
+Marketing data, such as your preferences for receiving our marketing communications and details about your engagement with them.
+Automatic data collection. We, our service providers and our business partners may automatically log and combine information about you, your computer or mobile device, and your interaction over time with the Services, online resources and our communications, such as:
+
+Device data such as your computer's or mobile device's operating system type and version, manufacturer and model, browser type, screen resolution, device type (e.g., phone, tablet), IP address, unique identifiers (including identifiers used for advertising purposes), language settings and general location information such as city, state or geographic area.
+Online activity data such as pages or screens you viewed, the website you visited before browsing to the Services, navigation paths between pages or screens, information about your activity on a page or screen, access times, and whether you have opened or otherwise engage with our communications, such as our marketing emails or clicked links or files within them.
+We collect this information using cookies and other similar technologies. For more information, please visit our Cookie Policy.
+
+Information we obtain from third parties:
+
+Social media information. We may maintain pages on social media platforms, such as Facebook, LinkedIn, Instagram, and other third-party platforms. When you visit or interact with our pages on those platforms, the platform provider's privacy policy will apply to your interactions and their collection, use and processing of your personal information. You or the platforms may provide us with information through the platform, and we will treat such information in accordance with this Privacy Policy.
+Third-party login information. When you link, connect, or login to the Services with a third party service (e.g. Google, Facebook, or Apple), you direct the service to send us information such as your registration, friends list, and profile information as controlled by that service or as authorized by you via your privacy settings at that service.
+Other Sources. We may obtain your personal information from other third parties, such as marketing partners, publicly-available sources and data providers.
+How We Use Personal Information
+We use personal information for the following purposes or as otherwise described at the time of collection:
+
+Providing and supporting our Services. To perform our contractual obligations with you or when it is in our legitimate business interests, we use personal information to operate, maintain and provide you with our Services, including to allow you to use the Services under our terms of use.
+
+Communicating with you about our Services. To perform our contractual obligation with you or when it is in our legitimate business interests, we will use personal information to respond to your requests, provide customer support and communicate with you about our Services, including by sending announcements, updates, security alerts and support and administrative messages.
+
+Improving, monitoring, personalizing, and protecting our Services. It is in our legitimate business interests to improve and keep our Services safe for our users, which includes:
+
+understanding your needs and interests, and personalize your experience with the Services and our communications;
+troubleshooting, testing and research and to keep the Services secure; and
+investigating and protecting against fraudulent, harmful, unauthorized or illegal activity.
+Research and development. We may use personal information for research and development purposes in our legitimate business interests, including to analyze and improve the Services and our business. As part of these activities, we may create or use aggregated, de-identified or anonymized data from personal information we collect so you cannot be directly identifiable. We may use this data and share it with third parties for our lawful business purposes, including to analyze and improve the Services and promote our business. We maintain and use de-identified data only in de-identified form, do not attempt to re-identify it, and contractually require any recipients of de-identified data to do the same. For clarity, the data we collect from our user research study partners will only be used by Brilliant for internal development purposes, and cannot be used by our research study partners for their own purposes.
+
+Marketing and advertising. We, our service providers and our third-party advertising partners may collect and use personal information for the following marketing and advertising purposes:
+
+Direct marketing. We may send you direct marketing communications as permitted by law, including by email. You may opt-out of our marketing communications as described in the Opt-out of marketing communications section below.
+Interest-based advertising. We may engage third-party advertising partners, including third party advertising companies and social media companies, to display our ads around the web. These companies may use cookies and similar technologies to collect information (including the automatically-collected data described above) about your interactions over time across our Services, our communications, and other online services, and use that information to serve online ads that may interest you. We share information we collect on our website, such as information about the pages you visit and the actions you take on our website with advertising networks and analytics partners to support our interest-based advertising, which may qualify as "sharing" personal information, or targeted advertising, under applicable law. For more information, or to understand your choices, please visit our Cookie Policy.
+We do not use the personal information of children under 13 (wherever located, see the Children's Privacy section below) or of European users under 16 for direct marketing or interest based advertising. Nor do we sell, or share for cross context behavioral advertising, the personal information of any consumer we know to be under 16 years of age.
+
+Except where consent is required, we undertake such marketing and advertising on the basis of our legitimate business interest. Where we seek your consent, you may withdraw your consent at any time.
+
+Supplier/partner relationships. Where you are a supplier/partner or a representative of a supplier/partner, it is in our legitimate business interests to use your personal information to contact you and to manage our relationship with you and/or your company. If we have entered into a contract with you/your company, we will use your personal information as required for us to perform our contractual obligations under the relevant contract.
+
+Compliance and protection. We may use personal information to comply with legal obligations, and to defend us against legal claims or disputes where it is in our legitimate business interests to do so, including to:
+
+protect our, your or others' rights, privacy, safety or property (including by making and defending legal claims);
+audit our internal processes for compliance with legal and contractual requirements and internal policies;
+enforce the terms and conditions that govern the Services;
+prevent, identify, investigate and deter fraudulent, harmful, unauthorized, unethical or illegal activity, including cyberattacks and identity theft; and
+comply with applicable laws, lawful requests and legal process, such as to respond to subpoenas or requests from government authorities.
+How We Disclose Personal Information
+We may disclose personal information to the following parties:
+
+Other users. We may make user rankings, such as leaderboards and leagues, available to users of the Services, showing top users and their activity levels over the course of a given week.
+
+Rankings are anonymized: your name is visible only to you when you view your own entry, and other users cannot see your name or any other personal information in connection with your entry, they see only anonymized entries and XP levels.
+
+Service providers. Companies and individuals that provide services on our behalf or help us operate the Services or our business (such as hosting, information technology, speech-to-text conversion, customer support, email delivery and website analytics services).
+
+Advertising partners. Third party advertising companies, including for the interest-based advertising described above, that may collect information on the website through cookies and other automated technologies.
+
+Professional advisors. Professional advisors, such as lawyers, auditors, bankers and insurers, where necessary in the course of the professional services that they render to us.
+
+Authorities and others. Law enforcement, government authorities and private parties, as we believe in good faith to be necessary or appropriate for the compliance and protection purposes described above.
+
+Business transferees. Acquirers and other relevant participants in business transactions (or negotiations for such transactions) involving a corporate divestiture, merger, consolidation, acquisition, reorganization, sale or other disposition of all or any portion of the business or assets of, or equity interests in, Brilliant (including, in connection with a bankruptcy or similar proceedings).
+
+With your instruction or permission. We may disclose personal information to a relevant third party, where you give us permission to do so in the course of your relationship with us from time to time.
+
+Privacy Rights and Choices
+Opt-out of marketing communications. You may opt out of marketing-related emails and other communications by following the opt-out or unsubscribe instructions in the communications you receive from us or by contacting us as provided in the How to Contact Us section below. You may continue to receive Services-related and other non-marketing emails.
+
+Personal information requests. We also offer you choices that affect how we handle the personal information that we control. Depending on your location and the nature of your interactions with our Services, you may request the following in relation to personal information:
+
+Information about how we have collected and used personal information. We have made this information available to you without having to request it by including it in this Privacy Policy.
+Access to a copy of the personal information that we have collected about you. Where applicable, we will provide the information in a portable, machine-readable, readily usable format.
+Correction of personal information that is inaccurate or out of date.
+Deletion of personal information that we no longer need to provide the Services or for other lawful purposes. You can request that we delete your AI chat conversations by writing to support@brilliant.org. When we act on a deletion request, we delete your personal information; we may retain data that has been de-identified so that it can no longer be linked to you, as described in the Research and development section above.
+Parental rights for parents and guardians of children under 13 to review their child's personal information, request its deletion, and refuse to permit its further collection or use, as described in the Children's Privacy section below.
+Right to opt out of targeted advertising. We use cookies and other similar technologies on our website to help us advertise our Services on other websites or services you visit, which may qualify as "sharing" personal information, or targeted advertising, under applicable law.
+Appeal our denial of your personal information request by contacting us as set out below.
+Additional rights, such as to object to our processing of your personal information, request that we restrict our use of personal information, and where applicable, you may withdraw your consent to our processing of your personal information.
+Right to complain. Depending on where you reside, such as if you reside in the European Economic Area ("EEA") or United Kingdom, you may have the right to complain to a data protection regulator where you live or work, or where you feel a violation has occurred. If you reside in the EEA, click here to find your local supervisory authority, and here if you are in the United Kingdom.
+How to exercise your requests:
+
+To access or delete your personal information, please click the "Export your data" link in your Account Settings.
+To opt out of targeted advertising, please use the "Do Not Sell My Personal Information" link in the footer of our website.
+To make other requests, please email us or write to us as provided in the How to Contact Us section below. We may ask for specific information from you to help us confirm your identity. Depending on where you reside, you may be entitled to empower an "authorized agent" to submit requests on your behalf. We will require authorized agents to confirm their identity and authority, in accordance with applicable laws. You are entitled to exercise the rights described above free from discrimination.
+Limits on your choices. In some instances, your choices may be limited, such as where fulfilling your request would impair the rights of others, our ability to provide a service you have requested, or our ability to comply with our legal obligations and enforce our legal rights. If you are not satisfied with how we address your request, you may submit a complaint by contacting us as provided in the How to Contact Us section below.
+
+Other Sites and Services
+Our Services may contain links to websites and other online services operated by third parties. In addition, our content may be integrated into web pages or other online services that are not associated with us. These links and integrations are not an endorsement of, or representation that we are affiliated with, any third party. We do not control websites or online services operated by third parties, and we are not responsible for their actions. This Privacy Policy does not apply to such third-party sites or services.
+
+Job Applicants
+When you visit the Careers portion of the website, we collect the information that you provide to us in connection with your job application. This includes but is not limited to business and personal contact information, professional credentials and skills, educational and work history and other information of the type that may be included in a resume. This may also include diversity information that you voluntarily provide. We use this information on the basis of our legitimate business interests or to take steps to enter into contract with you, to facilitate our recruitment activities and process employment applications, such as by evaluating a job candidate for an employment activity, to monitor recruitment statistics and to respond to surveys. We may also use this information to provide improved administration of the Services and as otherwise necessary (i) to comply with relevant laws or to respond to subpoenas or warrants served on us, (ii) to protect and defend our or others' rights or property, (iii) in connection with a legal investigation and (iv) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy or our terms of use.
+
+Security
+We use reasonable organizational, technical and administrative measures designed to protect against unauthorized access, misuse, loss, disclosure, alteration and destruction of personal information we maintain. We maintain a written information security program with safeguards appropriate to the sensitivity of the personal information we collect, including personal information collected from children, and to the size, complexity, and nature and scope of our activities. Unfortunately, data transmission over the Internet cannot be guaranteed as completely secure. Therefore, while we strive to protect your personal information, we cannot guarantee the security of personal information.
+
+Children's Privacy
+In connection with the Services, we do not knowingly solicit or collect personal information online from children under 13 years of age without verifiable parental consent. If we learn that we have collected personal information through the Services from a child under 13 without the consent of the child's parent or guardian as required by law, we will either seek parental consent or promptly delete the information. If you believe that a child under 13 years of age may have provided us with personal information without parental consent, please contact us as provided in the How to Contact Us section below.
+
+Where a child under 13 uses the Services with verifiable parental consent, the following applies in addition to the rest of this Privacy Policy, as required by the Children's Online Privacy Protection Act ("COPPA") and its implementing rule (the "COPPA Rule"). For purposes of the COPPA Rule, Brilliant Worldwide, Inc. is the operator that collects and maintains personal information from children through the Services and will respond to all inquiries from parents concerning this Privacy Policy and our practices with respect to children's personal information; our name, mailing address, telephone number and email address are set out in the How to Contact Us section below. The third parties identified in this section are service providers that process children's personal information solely on our behalf.
+
+Personal information we collect from children. Of the categories described in the Personal Information We Collect section above, we collect only the following from children under 13: full name; email address; age; push notification preferences and push notification tokens; and AI tutor interaction data, meaning chat messages exchanged with the AI tutor, files the child submits to the AI tutor (such as photos, videos, or documents – for example, a photo of a homework problem), which are processed to generate the AI tutor's response and are not stored, and Voice Input used solely to generate text transcriptions of the child's spoken commands or questions. The Services do not enable children to make personal information publicly available or to share personal information with other users. The Services do not offer chat rooms, community areas, public profiles, message boards or any other feature through which a child can communicate with, or disclose personal information to, other users or the public. Children under 13 may be included in the user rankings described in the How We Disclose Personal Information section, but their entries are anonymized: a child's name is visible only to that child when viewing their own ranking, and other users cannot see the child's name or any other personal information in connection with the child's entry.
+
+How we use children's personal information. Of the purposes described in the How We Use Personal Information section above, we use children's personal information only to provide and support the Services: to create and maintain the child's account; to deliver and personalize the learning experience, including course progress and AI tutor responses; to provide access to features requested by the child or their parent; to send push notifications where enabled (these can be turned off at any time in device settings); to respond to support requests; to improve our own AI features and the Services; and to protect the security and integrity of the Services. As noted in the Marketing and advertising section above, we do not use children's personal information for marketing, interest-based advertising or targeted advertising.
+
+Voice Input from children. Voice Input works for children as described in the Personal Information We Collect section above: recordings are processed only to generate text transcriptions and are not stored. Where the speaker is a child under 13, we collect the audio file containing the child's voice with parental consent, solely as a replacement for written words (for example, to process a spoken command or question). The audio is not stored by us: it is transmitted to our speech-to-text service provider, which operates under zero-data-retention terms and retains nothing once transcription is complete. We use the audio only to transcribe and respond to the child's request, and it is deleted immediately after we respond. Audio files containing a child's voice are not used for any other purpose.
+
+AI tutor moderation and safeguards. Our AI tutor feature is powered by artificial intelligence model providers. The specific models we use may change over time; in all cases, we apply the same safeguards, including: content filters that screen AI tutor inputs and outputs; automated red-teaming that tests the models for safety; classifiers that review the AI tutor's responses and alert us if the tutor goes off topic, so that we can refine our prompts and safety controls; configuration of the feature so that a child's interactions are processed by our model providers solely to generate the AI tutor's responses; and zero-data-retention agreements with each model provider that prohibit the provider from retaining children's personal information or using it for any purpose beyond providing the AI tutor feature, consistent with the no-model-training commitment in the Personal Information We Collect section above.
+
+How we share children's personal information. We do not sell children's personal information, and, unlike for other users, we do not disclose children's personal information to the advertising partners described in the How We Disclose Personal Information section above or to any other third party for marketing, advertising or profiling purposes. We share children's personal information only with the service providers described in that section; that is, vendors that support the internal operations of the Services, including our artificial intelligence model providers (which power the AI tutor feature, as described above), our speech-to-text service provider, and our hosting, information technology, customer support, email and push notification delivery, and analytics providers; each of which is contractually restricted to processing children's personal information solely to provide services to us and prohibited from using it for its own purposes. We may also make the legally required disclosures to authorities and business transferees described in that section.
+
+Persistent identifiers. The device data described in the Automatic data collection section above includes persistent identifiers (such as IP address, device identifiers and cookies or similar technologies), which we collect from all users, including children. Where a child uses the Services with verifiable parental consent, we collect these identifiers together with the other personal information described above. Where we have not obtained verifiable parental consent, for example, before a child registers for an account or before a parent has provided consent, we rely on the exception in Section 312.5(c)(7) of the COPPA Rule and collect a persistent identifier, and no other personal information, solely to support the following internal operations of the Services: authenticating users and maintaining login sessions; remembering settings and preferences; performing data analytics to understand and improve how the Services function; personalizing content within the Services; performing network communications; protecting the security and integrity of the child, the Services and our users; complying with legal obligations; and debugging and repairing errors. In all cases, we use employee training, access controls and storage limitations, and contractual restrictions on our service providers to ensure that identifiers collected from children are not used or disclosed to contact a specific individual (including through behavioral or retargeted advertising), to amass a profile on a specific individual, or for any other purpose (except as permitted to support the internal operations of the Services).
+
+Retention. We retain children's personal information only for as long as reasonably necessary for the purposes described above, and then delete it, on the schedule set out in the Retention of Personal Information section below.
+
+Parental rights. A parent or guardian may at any time: (i) review the personal information we have collected from their child; (ii) request that their child's personal information be deleted; and (iii) refuse to permit the further collection or use of their child's personal information. Parents can exercise these rights through the same channels described in the Privacy Rights and Choices section above; the "Export your data" link in the child's Account Settings, or by contacting us by email at privacy@brilliant.org, by telephone at 650-468-2966, or in writing at the address in the How to Contact Us section below. We will take reasonable steps to verify that the person making a request is the child's parent or legal guardian before acting on it. If a parent refuses to permit our further collection or use of the child's personal information, we may need to close the child's account, because certain information is necessary to provide the Services.
+
+International Data Transfers
+You will provide personal information directly to us in the United States. We may also transfer personal information to our affiliates and service providers in the United States and other jurisdictions. Please note that such jurisdictions may not provide the same protections as the data protection laws in your home country.
+
+When we engage in cross-border data transfers, we will ensure that relevant safeguards are in place to afford adequate protection for personal information and we will comply with applicable data protection laws, in particular by relying on an EU Commission or UK government adequacy decision or on contractual protections for the transfer of personal information. For more information about how we transfer personal information internationally, please contact us as set out in the How to Contact Us section below.
+
+Retention of Personal Information
+Where required under applicable laws, we retain personal information only for as long as is necessary to fulfill the purposes for which it was collected and processed, in accordance with our retention policies, and in accordance with applicable laws and regulatory obligations or until you withdraw your consent (where applicable).
+
+To determine the appropriate retention period for personal information, we consider the amount, nature, and sensitivity of the personal information, the potential risk of harm from unauthorized use or disclosure of personal information, the purposes for which we use personal information and whether we can achieve those purposes through other means, and the applicable legal and regulatory requirements.
+
+Please note that while we retain your AI chat conversations for as long as your account remains active or as reasonably necessary to provide the Services (except for the AI tutor conversations of children under 13, addressed below), we do not store or retain your voice recordings or files you upload to our AI chat feature. Voice Input is processed only to generate text transcriptions and is then discarded. You can request that we delete your AI chat conversations by writing to support@brilliant.org.
+
+Retention of children's personal information. For children under 13, we collect personal information only for the purposes described in the Children's Privacy section above, and we retain it only as long as reasonably necessary to fulfill the specific purpose for which it was collected:
+
+account information (full name, email address and age) is retained while the child's account is active, because it is needed to maintain the account and preserve the child's learning progress; it is deleted within 30 days after a verified parental deletion request or closure of the account. Child accounts that have been inactive for 36 months are deleted after we notify the parent and the parent does not choose to keep the account active;
+AI tutor chat transcripts are retained while the child's account is active, to preserve the child's learning progress and to improve our own AI features and the Services; within 30 days after a verified parental deletion request or closure of the account, we permanently de-identify the transcripts, removing the child's account identifiers and any personal information appearing in the chat content, so that they can no longer be linked to or used to identify the child, and we retain only the de-identified data;
+audio files containing a child's voice, and other files the child submits to the AI tutor (such as photos, videos, or documents), are never stored by us or retained by our service providers; any transient copies are deleted immediately after we respond to the child's request, as described above; and
+push notification tokens and preferences are retained until the child or parent disables notifications or the account is closed, whichever occurs first.
+We do not retain children's personal information indefinitely, and we retain it only for the purposes described in this Privacy Policy.
+
+Changes to This Privacy Policy
+We reserve the right to modify this Privacy Policy at any time. If we make material changes to this Privacy Policy, we will notify you. If we make material changes to how we collect, use or disclose personal information previously collected from children under 13, we will notify parents directly and obtain verifiable parental consent where required to do so by the COPPA Rule.
+
+How to Contact Us
+Brilliant is the entity responsible for the processing of personal information under this Privacy Policy (as a controller, where provided under applicable law).
+
+If you have any questions or comments about this Policy, our privacy practices, or if you would like to exercise your rights with respect to your personal information, please contact us by email at privacy@brilliant.org, by telephone at 650-468-2966 or write to us at:
+
+Brilliant Worldwide, Inc.
+2261 Market Street #4281,
+San Francisco CA, 94114
+
+EEA and UK Representative Contact Information. We have appointed VeraSafe as our representative for users in the EEA and UK. You can contact our EU representative at Unit 3D North Point House, North Point Business Park, New Mallow Road, Cork T23AT2P, Ireland or at +420 228 881 03, and you can contact our UK representative at 37 Albert Embankment, London SE1 7TL, United Kingdom or at +44 (20) 4532 2003.
+
+Privacy Snapshot
+Here is a high-level snapshot of our privacy practices, but you need to read the entire Privacy Policy for complete information. This snapshot describes our practices for users generally. As described in the Children's Privacy section above, personal information collected from children under 13 is not used for marketing or advertising purposes and is not disclosed to marketing or advertising partners.
+
+Data Category Collected	How We Collect	Primary Purpose of Processing	Key Disclosures
+Identifiers	When you visit the Service; from third-party sites and services	To deliver our Service; to improve, monitor, personalize and protect our Service; and for marketing and advertising	Service providers; and marketing and advertising partners
+Personal information categories listed in the California Customer Records Statute	When you visit the Service; from third-party sites and services	To deliver our Service; to improve, monitor, personalize and protect our Service; and for marketing and advertising	Service providers; and marketing and advertising partners
+Commercial information	When you visit or use our Service	To deliver our Service; to improve, monitor, personalize and protect our Service; and for marketing and advertising	Service providers; and marketing and advertising partners
+Internet or other electronic network activity information	When you visit or use our Service; from third-party sites and services	To improve, monitor, personalize and protect our Service; and for marketing and advertising	Service providers; and marketing and advertising partners
+Geolocation data	When you visit or use our Service	To improve, monitor, personalize and protect our Service; and for marketing and advertising	Service providers; and marketing and advertising partners
+Audio, visual and similar information, such as voice recordings, photos, videos and documents	When you use our AI chat feature (e.g., Voice Input, files you submit (such as photos, videos, or documents); voice recordings and uploads are not retained) or provide a profile picture	To deliver our Service (e.g., generating transcriptions and AI responses); and to improve, monitor and protect our Service	Service providers (e.g., speech-to-text conversion and our artificial intelligence model providers)
+Inferences drawn from the information above	Generated from your use of our Service	To improve, monitor, personalize and protect our Service; and for marketing and advertising	Service providers

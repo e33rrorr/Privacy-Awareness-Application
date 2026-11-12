@@ -1,0 +1,355 @@
+Privacy Policy
+Privacy Statement for Customers
+
+Unless we inform you differently, this privacy statement (‘’Statement’’) explains how Takeaway.com Group B.V. as data controller (“JET”, “we”, “us” or “our”) collect, use, disclose, and otherwise process personal data and applies to the processing of personal data of customers who make use of one of our platforms and products, including this order website, this app, this platform and products, and other available services from JET’s platform, such as corporate customers’ and their assigned employees and users who make use of one of our JET for Business products and services for business (‘’JET for Business’’) (collectively, the “Services”) to place orders with a restaurant partner, grocery store, convenience store or other business partner (“Partner(s)”) which offers products or services for delivery via our Services.
+
+We may use your personal data to provide delivery services for orders placed on the Partner’s own website, application or ordering platform. In such circumstances, we will process personal data received from such Partner(s) in line with their instructions as their data processor. We recommend that you read the Partner's privacy statement (or equivalent).
+
+At JET we are committed to protecting the privacy of everyone in our community. If you have any questions on the way we retain your personal data you can contact us via our privacy form.
+
+What personal data do we process and why?
+
+Personal data, in this Statement also referred to as “your data”, means any information or set of information from which we are able, directly or indirectly, to personally identify you, in particular by reference to an identifier, e.g. name and surname, email address, phone number, etc. It does not include data where the identity has been removed (anonymous data).
+
+Whenever you interact with JET via our Services we collect and process your personal data. JET may process your personal data for the following purposes:
+
+1. Customer Accounts
+
+If you interact with our Services you are given the opportunity to create an account with us either via our platforms or via using third-party social login service (e.g. Apple, Google, Facebook Login or other platforms) where the privacy statement of the relevant third-party will also be applicable to you in addition to this Statement. Where you created a guest account in the past this data will be held for invoicing and record keeping purposes. Depending on the circumstance, we may rely on your consent or the fact that the processing is necessary to fulfil a contract with you, or to comply with law. You can withdraw your consent and/or close your account by contacting us. We may process the following personal data for customer account purposes:
+
+Name
+Address data
+Contact data
+IP address
+Social media account information such as when you log into JET with social media credentials. We recommend that you read the privacy statement of your social media service provider to understand how your personal data is used.
+Credentials (applicable for Just Eat for Business)
+2. Ordering process
+
+We process the personal data you provide to us when you place your order. This personal data is necessary to execute your order, confirm your order, and to assess your order, payment, and a possible refund. Your information (such as the items you add to your basket) allow us to process your order and send you an accurate bill. Participation in a group order means that your transactional data, including order details and fulfillment status, will be shared with the individual who initiated the group order. It also helps us and any Partner or couriers contact you where necessary to facilitate delivery. Some Partners on our platform use third party delivery companies which may use your information to provide you with status updates on the delivery of your order. We may use your location data to give you an estimation on delivery times before and after the ordering process. Depending on the circumstance, we may rely on your consent or the fact that the processing is necessary to fulfil a contract with you, or to comply with law. We may process the following personal data in the ordering process:
+
+Name
+Address data
+Location data (where consent has been provided for location data)
+Age and proof of identity (where required)
+Contact details including email address, phone numbers
+Order and transaction data
+Dietary preferences
+Payment and voucher data
+IP Address
+Device identifiers such as IP address, session tracking, SDKs, unique device ID
+Identity and/or age verification data
+As part of our Services we may sell products that inadvertently reveal special category personal data, such as health-related information (allergies or dietary requirements), information about your religion (such as to keep your religious dietary restrictions), information about your medical condition (e.g. pharmacy products, medicines, medical devices, medicated creams, food supplements or herbal/homoeopathic products) or about your sexual life via our Partners. We will collect and process health data such as medicines with your consent as part of your order.
+
+We may engage in the sale and delivery of restricted products or services such as alcohol, E-Cigerettes or tobacco. To comply with our legal obligations as may be imposed by the applicable laws, we may implement verification procedures governing the sale and delivery of these products including your age and identity verification via a review of your proof of identity from our couriers or through automated means by scanning your ID. For this purpose we may require evidence of a government issued identification document and JET will not be obliged to perform and complete its Services if you do not cooperate for the required verification procedure. The legal basis for this processing of personal data is compliance with legal obligation.
+
+3. Partner & Courier reviews
+
+When permitted by applicable law or as part of our legitimate interest to improve our products and services, we may ask, after your order, you to submit a review of Partners and/or couriers. This is entirely optional.
+
+JET processes the personal data you provide when submitting a review. You can ask for a deletion of the review by contacting us. We may also contact you after a review to discuss your experience. We may process the following personal data when you post a Partner and/or courier review:
+
+Name
+Contact data
+Review
+When your review is published, the review, and your first name, may be made available to couriers, Partners and/or the public.
+
+4. Customer Services and Support
+
+When you contact our customer services support, we will use the personal data you provide to answer your question or handle your complaint. We may collect personal data under call recordings to provide customer support, including to investigate and address user concerns and to monitor and improve our customer support responses and processes. We may also record call recordings as part of inbound or outbound contact we make to you.
+
+We may also collect your personal data if you submit us a notice in relation to the presence of any suspected item in our Services which you may consider as ‘’illegal content’’ as defined in the EU Regulation 2022/2065 of the European Parliament and of the Council (‘’Digital Services Act’’) or as may be defined and required under any applicable law; and also to provide you with an access to internal complaint handling system and/or to take required suspension measures and protection against misuse of our Services.
+
+Depending on the circumstance, we may rely on your consent or the fact that the processing is necessary to fulfil our contract with you, based on our legitimate interest or to comply with law. We may process the following personal data for customer service purposes:
+
+Name
+Address data (if applicable)
+Contact data
+Order and transaction data
+Payment data (if applicable)
+Comments (if applicable)
+Content of communication between you and the customer services department for example calls, chats, emails or letters
+Content of communication between you and couriers through chat functionalities
+Any other content that may be required for compliance with the applicable laws and to resolve your query.
+5. Fraud prevention and Misconduct
+
+We also process personal data to keep our platforms safe and secure and prevent misconduct on and via our Services including through automated processes to detect, prevent and defend against fraudulent claims. We may also use common fraud checks or national databases, such as CIFAS, to enhance our fraud screening and checks. We may use fraud prevention related cookies and technologies to monitor and detect unusual behaviour, account activity, historical data analysis, refund abuse, chargebacks or any other payment and voucher related activity. This includes tracking information collected from or generated by users, such as location data, payment information, and how they use JET. By comparing current activity with past data, we can quickly identify and flag any unusual patterns. Depending on the circumstance, we rely on the fact that the processing is necessary to fulfil our contract with you to keep our platform and services safe, to comply with law or our legitimate interest (or equivalent under applicable data protection law). If fraud is suspected, we may suspend your account or refuse to provide products or services to you. We may process following personal data for fraud prevention and misconduct purposes:
+
+Name
+Address data
+Contact data
+Identity and/or age verification data
+Account usage and login data
+Order and transaction data
+Payment and voucher data
+Reviews
+Customer communications
+Device information
+IP address
+Browser information
+6. Loyalty programs (in applicable markets)
+
+JET has several loyalty programs to provide you with offers, credits, vouchers and discounts such as JET+. When you make use of one of our loyalty programs, we process your personal data to provide you with the discounts or offers as set out in the respective loyalty program.
+
+In instances where part of the offering of a loyalty programme includes discounts for third parties or you avail of JET discounts via third parties, JET may need to share your information where you have signed up for that service. You will be informed who your data will be shared with as part of the sign up service. In addition, to provide you with cashback and rewards incentives you have availed either directly with JET or with an external loyalty partner you signed up to directly which offer JETs discounts, we securely obtain and share your transaction data with our trusted partners. One of our loyalty programs is the loyalty shop, where you may claim offers from external partners. Some of the loyalty shop partners require your personal data for shipping purposes. Depending on the circumstance, we may rely on the fact that the processing is necessary to fulfil a contract with you, in our legitimate interest, or to comply with law.We may process the following personal data processed for the loyalty shop and shipping of your order:
+
+Name
+Address data
+User identifiers from JET or other reward programmes you have signed up to
+Order Information (if applicable)
+Contact data
+7. Customer research
+
+To ensure that our Services are consistent with your preferences, your personal data may be used for purposes such as conducting product, user research or satisfaction surveys. Where we are conducting market research such as after contact with our operations teams or where we ask you for your opinion on our products or services, participation is optional and it will not affect how we manage your account. We only send you these types of communications based on a specific and applicable legal basis, i.e. either your consent or our legitimate interests. Where the legal basis of consent is applied, we always obtain your prior consent. You can withdraw your consent for product, user research or satisfaction surveys at any time or by unsubscribing from them in the messages itself. Participation in the customer satisfaction surveys is completely voluntary.
+
+Please note that in some cases, we process your personal data for these purposes based on our legitimate interests. This is based on our legitimate business interest in the context of collecting information about customers' experiences with our products and services, to identify specific areas of interest and requests with the overarching aim of developing and offering our products and services that meet customer needs. If you do not wish to receive these surveys you can unsubscribe from them in the messages itself.
+
+We may process the following personal data for these purposes:
+
+Name
+Contact data
+Order and transaction data
+Research input
+Feedback and scores provided by you
+To provide you any offers, vouchers or incentives that may have been offered to you.
+8. Marketing and Personalisation
+
+We process your personal data to be able to send you (personalised) marketing communications and notifications to administer, support, improve and develop our Services. There may be cases where JET may process your personal data for promoting JET products and services, to personalise your shopping experience, and to show you tailored advertising. We rely on your consent unless your consent is not necessary according to the applicable law, in particular this is the case if you are one of our customers and we obtained your contact details during the course of a sale of JETs products or services and you are contacted regarding similar products and services, known as soft opt in. You will always be given the option to opt out of receiving these direct communications. You can unsubscribe using the unsubscribe link or method indicated in the messages, in your account settings or by contacting us (see ”Your privacy rights”). We may rely on our legitimate interest (or equivalent under applicable law) to categorise your interests and usage of our services (i.e., define customer segments based on first-party data for audience creation and matching) in order to provide you with the relevant marketing content. You may object to this processing by contacting us via this form.
+
+We may process the following personal data for marketing purposes:
+
+Name
+Address data
+Contact data
+Order and transaction data
+Payment data
+Loyalty programs
+Review(s)
+Campaign data
+Device ID
+Cookie and Technology data
+In order to enable us to personalise your user experience with JET and optimise our Services offered to you, we may use automated decision making and profiling for marketing purposes to understand our customers. Where you do not consent to marketing or personalised cookies, your personal data such as order and account history may still be used to understand our customer experience and preferences. Where possible, this will be done using aggregated or anonymised data. Where you have not consented or objected to receiving marketing, personalised content such as emails will not be sent to you. Where you do not consent to a personalised experience, ads and promoted material may still be visible on our platform, but they will not be personalised to you. Personalised ads outside of JET may also be presented based on your consent to share data about your orders, general customer information and browsing habits to show you with the advertisements matching your interest profile the best. You can always withdraw your consent to any of the above by changing your settings or opting out of personalised cookies and contacting us via this form.
+
+Our media parties we partner with include:
+
+Alphabet/Google/Youtube
+Meta/Facebook/Instagram
+PayPal
+Pinterest
+SnapChat
+Reddit
+More information can be found on our technology list.
+
+Please see ‘’Use of Automated decision-making and algorithmic tools’’ section below for more information.
+
+9. Marketing, Campaigns & Contests
+
+JET may launch specific campaigns or contests in connection to its Services. Joining JET campaigns or contests is always on a voluntary basis. JET will send you direct marketing communications via email, notifications, SMS or in app messaging. We may work with third parties to run competitions or campaigns. We may rely on your consent unless your consent is not necessary according to the applicable law. You can always withdraw your consent via method indicated in the campaign or by contacting us or amending your account or device preferences.
+
+We may process the following personal data for campaigning purposes:
+
+Name
+Contact data
+Order and transaction data (optional)
+Campaign data (optional)
+10. Advertisement & Retail Media
+
+Like most businesses, we use advertising to let people know about our services and products. We use information about you to show you ads that might interest you. This includes details like your location and order history, which helps us make the ads more relevant. For example, you might see ads for our products on other websites if you've visited our site before.
+
+When you see and interact with our ads, we measure how effective they are. We track things like how long you stay on our site after clicking an ad and which campaigns lead to new app installations. We also partner with other companies to use technology that tracks your interactions with our website, apps, and our ads on other platforms. This helps us personalise ads and content, understand our audiences and we may share this information with our partners for advertising. Where we do not have your consent to this tracking, you may still see advertisements, but they will not be personalised to you. In case of personalised tracking based on storage or access technologies (e.g. cookies), we will always rely on consent to deliver those ads to you.
+
+11. Cookies & Similar Technologies
+
+JET uses cookies or similar technologies for functional, analytical, and personalisation, and tailored advertising purposes. Data processed for these purposes depends on the preferences set by you.
+
+Depending on your cookie consent preferences, we may share your personal data with our third party marketing partners for analytical purposes, to offer you promotions, recommend similar products or other offers that may be of interest to you.
+
+You may find further information in our Cookie Statement about our use of cookies and/or similar technologies. You can change your cookie consent settings via managing your preferences in the Cookie Statement, cookie banner, and/or your settings in the tool you use to browse. Please note that disabling cookies may restrict your ability to use some of the Services and/or features on the website or impair your user experience.
+
+12. Analytics & Product Improvement
+
+JET uses your personal data to be able to understand how you interact with our platforms, our products and Services, to improve the performance of these; to develop new features and to be able meet our reporting obligations towards third parties which may also include advertisers. This includes understanding trends among our customers and presenting products and offerings we believe are relevant depending on common factors such as order history, demographic data and order frequency. Where possible, these analytics will be conducted using aggregated data. Depending on the circumstance, we may rely on your consent to comply with law or our legitimate interest (or equivalent under applicable data protection law). We aim that the reports do not contain any information that can be traced back to you. If you want to opt out of this, please fill in this form.
+
+13. JET for Business
+
+We process personal data if you use your JET for Business allowance to pay for an order you placed via our Services, when using or interacting with JET for Business products and services, to issue and ship the JET for Business card, and/or to provide you with the digital allowance. Depending on the circumstance, we may rely on your consent, to comply with law or based on our legitimate interest when you make use of JET for Business. The following personal data may be processed in connection with JET for Business:
+
+Name
+Address data
+Employment data (job role, department, contractual hours)
+Contact data
+Allowance data
+Order and transaction data
+JET for Business card information
+Payment data
+The JET for Business card is partnered with card issuing and card transaction services provider Adyen, which also qualifies as an independent data controller. The processing of some of the above personal data by Adyen is covered by the Adyen's privacy statement, which can be viewed here Adyen’s privacy statement and we recommend you to read as this applies in addition to this Statement.
+
+14. JET Delivery as a Service
+
+Restaurants, convenience stores, grocery stores and other businesses that offer products for delivery (“Partners”) may use the JET Platform and logistics services to provide delivery services for orders placed on the Partner’s own website, application or ordering platform. In such circumstances, we will process data received from such Partners in accordance with the instructions of the Partner and will not use the personal data for any other purpose, nor should it be used in combination with any existing JET data that may be held.
+
+How do we collect your personal data?
+
+We acquire, process and retain your personal data, as well as personal data about devices you use to navigate to JET platforms (e.g. your computer, mobile phone or other means), which you provide to us by browsing our platforms, ordering, creating an account or by contacting us.
+
+We process personal data that you provide voluntarily, that we collect automatically and that we obtain from third party sources for the purposes outlined in this statement.
+
+Personal data that you provide voluntarily: We may receive personal data provided from you when you place your order, create an account with us or provide for your marketing preferences or customer reviews in connection to our Services.
+Personal data that we collect automatically: With your prior consent or when permitted by applicable law, when you browse our platforms, we may automatically collect technical data about your equipment, browsing activities and patterns. We use this personal data by using cookies, and other similar technologies. For our cookie statement, please refer above (Cookies & Similar Technologies) for more information.
+We may allow you to use social media sites to create your account or link your account to the relevant social media site. These social media sites may provide us with automatic access to certain personal data they hold about you (e.g. content viewed by you, content liked by you, and information regarding the advertisements you have been shown or may have clicked on). Where we receive such information, we may use this information to further understand customer preferences and where applicable, personalise your experience with us in line with your consent preferences where applicable.
+
+Personal Data that we obtain from third-party sources: We may receive personal data from third party sources, including advertising networks and social media platforms or technical payment and delivery services providers which may also be located outside EU for purposes such as to support procurement of our Services, to measure the performance of marketing campaigns for our Services; and better understand your preferences so that we can customise our marketing campaigns and Services accordingly.
+Age
+
+Our Services are not intended for persons defined as underage by applicable local laws, nor do we intend to collect personal data of visitors who are under the defined legal age. However, we are unable to verify visitors’ ages. We therefore advise parents and/or legal guardians to monitor their children's online activities, to prevent their personal data being collected without parental or guardian consent. If you feel that we have collected personal data of a minor without consent, please contact us via our privacy form.
+
+We shall endeavour to put in place appropriate and proportionate measures to ensure a high level of privacy, safety, and security of minors in our platforms in accordance with applicable laws.
+
+Use of Automated decision-making and algorithmic tools
+
+JET may use automated decision making, and algorithmic tools for performance of our contract with you, to fulfil our obligations or to improve our platforms and Services. This applies to the following purposes:
+
+JET uses algorithmic tools in processing your address data and/or location data to select available Partners in your local area (performance of contract); and to prevent fraud, avoid money laundering, terrorism financing, and other criminal offences (fulfil our legal obligations).
+JET uses algorithmic tools for personalised content (profiling), recommendations, calculating estimated pre-purchase delivery times and smart chat functionalities to enhance our Services and your user experience, to keep our platforms safe, and to support the overall optimisation of our Services.
+You will not be subject to decisions that will have a significant impact on you based solely on automated decision-making, unless we have obtained your prior consent, we are meeting a legal obligation, or it is in our legitimate interest, for example, detecting and preventing fraud. The times of automated decision making that JET does include profiling, service enhancement and optimisation, user experience), the processing is required for the conclusion or performance of a contract with you (i.e., selecting Partners in your local area) or where allowed under law. Where appropriate this Statement might be supplemented by specific notices or information as part of your agreement to specific goods or services which provide additional information on the processing of your data and if they are via the use of Automated decision-making and algorithmic tools as part of our platforms and Services. If you want to object to this type of processing and exercise your rights that contain at least the rights to obtain human intervention, to express your point of view and to contest the decision, you can contact us via the contact details below or our privacy form.
+
+How long we keep your data
+
+JET, as a globally operating company, has to take into account various local data retention requirements. We will only keep your personal data for as long as necessary to fulfil the purposes we collected it for (for details see above paragraph “What personal data we process and why”), including for the purposes of satisfying any legal, tax, accounting, or reporting requirements. To determine the appropriate retention period for personal data, we take into account the following criteria such as:
+
+Type of your personal data
+Litigation and Dispute Resolution: personal data used for the establishment, exercise or defense of legal claims
+Applicable legal ground (if based on consent until you withdraw your consent)
+Security considerations and requirements: Data used for the security and stability of our Services and for security logs and backups
+Internal policies and procedures applicable to JET
+Your last activity (e.g. your data such as last used address, permission to save device location or automatic login stored via cookies & similar technologies retained for one year following your last activity on the platform)
+End of your contract with JET
+Fraud prevention and other compliance requirements
+The period required to serve the respective business purpose (e.g. how long is the data needed to provide you with our Services or to operate our business)
+If you have any questions or wish to obtain more detail in relation to criteria set out above please contact us via our privacy form.
+
+In the event the data falls into more than one retention terms category, the category with the longer retention requirement shall prevail, other requirements (such as access, security etc) notwithstanding.
+
+Sharing your personal data with Partners
+
+If you order through our Services, JET may share your personal information (order, name, address, or contact data) with the Partner you selected so that the Partner can deliver your order and where necessary services, for instance to resolve your complaint. Partners may process your personal data to contact you if it is necessary to fulfil the contract with you.
+
+You are a direct customer of the Partner, and therefore the Partner bears its own responsibility and obligations for the processing of your personal data. For questions about how the Partner handles your data, we suggest you contact the Partner directly.
+
+Sharing your personal data in terms of JET for Business
+
+If you use your JET for Business allowance to pay for an order you placed via our Services or by using JET for Business card, JET shares personal data (such as email address and order details and allowance) with the person that grants you the allowance (which might be your employer, business partner etc.) for performing our contract with this person. Please note that the person that grants you the allowance has its own responsibility and obligation with respect to the processing and protection of your personal data. If you have any questions about how your personal data is used by this corporate entity, please contact them directly. The person that grants you the allowance also shares personal data with us to allow us and the JET for Business card service providers to provide services to you. 
+
+Sharing your personal data with others
+
+JET may work with other companies within the JET group and/or other third parties in order to carry out the processing described in this Statement and/or to comply with legal obligations.
+
+JET is part of Naspers/Prosus group as Naspers/Prosus is the majority shareholder of JET group. JET group may share personal data with Naspers/Prosus on a strict need-to-know basis. In such situations, the intra-group data transfer agreement is applicable, which ensures an adequate level of protection for personal data within the scope of the GDPR and other applicable data protection laws.
+
+These group companies and third parties will process your personal data on behalf of us as data processors or as autonomous data controllers (or in a position as so defined or referred under applicable data protection law including concepts as the equivalent of controller or processor), and have access to your personal data for the purposes described in this Statement. We require group companies and third parties to protect your personal data in accordance with the standards set out in this Statement and we take appropriate measures pursuant to the applicable data protection law to guarantee the same level of protection and confidentiality in particular by concluding appropriate contractual, technical and organisational safeguards.As not all recipients always receive all data, and individual recipients may differ (for example, our service providers who are involved in sending newsletters only receive the data of persons who have registered for a newsletter; and our legal representatives only receive data from persons for whom this is necessary in individual cases), we have endeavoured to present the recipients as precisely as reasonably possible. By exercising your right to access and contacting us under the contact details set out below, you can obtain more detailed information about the specific recipients of your data at any time.
+
+We may also share your data with other third parties where appropriate or required by applicable law or regulation (including a court order or legal authority request) or where we believe disclosure is necessary to comply with legal obligations, to exercise, establish or defend legal rights or to protect the vital interests of any person. Such third party controllers may include law enforcement agencies.
+
+Your personal data, as detailed in the "What personal data we process and why" section, may be shared with various parties for the following reasons:
+
+Affiliates and Group Companies: We share data with JET’s affiliates and subsidiaries, as well as the Naspers/Prosus group, to effectively provide our Services and operate our business.
+Operational Providers: Information is disclosed to software providers (covering hosting, security, tooling and logistics) to maintain our Services and facilitate the exchange of essential business support.
+Marketing and Advertising: We share data with marketing providers to promote relevant products, offer tailored discounts or advertisements based on your interests, and analyse the performance of those ads.
+Order Fulfillment: Personal data is provided to logistical partners who perform delivery services on our behalf and to service providers responsible for the implementation and operation of our platforms.
+Financial and Security Services: We share information with merchants, payment processors (such as Adyen, for their privacy statement please see here), and fraud prevention providers to process your transactions safely and prevent illegal activity.
+Service Improvement: To enhance your experience, data may be shared with market research companies and survey firms, as well as partners who provide loyalty programmes, rewards and offers directly to customers via the JET platform.
+Legal and Professional Oversight: We disclose data to professional consultants and advisors to manage our business operations and meet legal requirements. Similarly, data is shared with law enforcement, government agencies, and regulatory bodies to comply with our legal obligations.
+Corporate Changes: In the event of a sale or asset transfer, data may be shared with prospective buyers to ensure the continued administration of the business.
+Consensual Sharing: Finally, your data may be shared with any other third party provided you have given explicit consent, in which case the purpose is determined by the specific service or party involved.
+Third-party websites
+
+Our website may include links to third-party websites. When accessing such third-party websites, please note that each of these websites has its own privacy statement and cookie management. Although JET takes great care in selecting websites to link to, we cannot take responsibility for the way in which they handle your personal data.
+
+Where your data gets sent
+
+JET operates, and processes personal data globally. This may result in processing of your personal data in countries, including the United States, whose data protection laws may differ from those where you live. JET only transfers data to other countries if the statutory requirements under applicable privacy laws are met.
+
+If you are in the European Economic Area (EEA), Switzerland, Israel, Australia, and the UK, please be aware that we may process and/or transfer your personal data outside of these aforementioned countries. This may include transferring personal data to or accessing it from other jurisdictions, including jurisdictions that may not provide a level of protection equivalent to your local- and/or data protection laws (“Non-Adequate Country”). You may see the list of Adequate Countries here as adopted by the European Commission.
+
+When we transfer personal data to non-adequate countries we adhere to applicable and appropriate safeguards and transfer mechanisms as set out under the applicable privacy laws to ensure lawful and safe transfer of your personal data. We provide appropriate and adequate protection for the transfers of personal data to countries outside of the aforementioned countries through a series of agreements with our service providers based on Standard Contractual Clauses adopted by the European Commission (and their approved equivalents for the UK and Switzerland), and the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (“Swiss-U.S. DPF”), as set forth by the U.S. Department of Commerce. You may request a copy of the contractual clauses applicable to transfer of your personal data depending on which country your personal data may be transferred to.
+
+In addition to appropriate contractual safeguards we adopt following organisational and technical measures for protection of your personal data during its transfer outside of the aforementioned countries including:
+
+securing personal data when in transit, including through encryption, and at rest;
+mandating training regarding privacy and data security at JET;
+implementing internal policies and procedures to limit access to, and use of customer personal data; and
+limiting unauthorised access to your personal data, except where required by applicable law or you have consented to the access.
+You have the right to contact us via our privacy form or the contact details set out below to request more information on cross border data transfers, or to request copies of applicable contractual safeguards.
+
+Your privacy rights
+
+How to exercise of privacy rights or complaints
+
+If you have any questions about your privacy rights or you wish to exercise the abovementioned rights you may contact us via our privacy form or the contact details set out below.
+
+We will do our best to address your request in time and free of charge, except where it would require an excessive and disproportionate effort. In certain cases, we may ask you to verify your identity before we can act on your request.
+
+Regarding requests related to processing or sharing of personal data related to JET for Business, please contact the employer that grants you the JET for Business allowance (which might be your employer, business partner etc.). This is required because JET and the person that grants you the allowance have a separate responsibility with respect to the processing and protection of your personal data.
+
+We inform you that, with regard to your personal data, you can exercise the rights provided for by, and pursuant to applicable data protection laws, which may include:
+
+Right of access
+
+You have the right to access and be informed about your personal data processed by us. You can request a copy of your personal data by contacting us.
+
+Right to withdraw consent
+
+In case the processing is based on a consent you may withdraw your consent at any time free of charge. Withdrawing a consent may lead to fewer possibilities to use our Services. The withdrawal of consent does not affect the lawfulness of processing based on consent before its withdrawal.
+
+Right to rectify
+
+You have the right to have incorrect or incomplete personal data we have stored about you corrected or completed by contacting us. You can correct or update some of your personal data through your customer account.
+
+Right to erasure
+
+You may also ask us to delete your personal data from our systems. We will comply with such a request unless we have another legal ground to not delete the data. .
+
+Right to object
+
+You may have the right to object to certain general use of your personal data if such data are processed for other purposes than necessary for the purposes set out in this Statement except for compliance with a legal obligation. If you object to the further processing of your personal data, this may lead to fewer possibilities to use our Services.
+
+You can also object to the use of your personal data for direct marketing communications based on legitimate interest via this form. If you object to the processing of your personal data for direct marketing purposes, the relevant personal data shall no longer be processed for such purposes. You may still see advertisements on our platform or in third party platforms but not based on processing of your data or because you have given consent.
+
+Right to restriction of processing
+
+You may request us to restrict processing of personal data for example when your data erasure, rectification or objection requests are pending and/or when we do not have other legal grounds to process your data. This may however lead to fewer possibilities to use our Services.
+
+Right to data portability
+
+You have the right to receive your personal data processed in accordance with this Statement in a machine-readable format, so that you can store this data in a database of yours or of a third party.
+
+Right to lodge a complaint
+
+You have the right to lodge a complaint with the relevant supervisory authority if you consider that processing of your personal data is infringed.
+
+Security
+
+JET takes personal data protection seriously and we therefore take appropriate measures to protect your personal data against misuse, loss, unauthorised access, unwanted disclosure, and unauthorised alteration. 
+
+Within JET we limit the access to your data as much as possible and only provide our employees access to your data on a “need-to-know” basis.
+
+If you feel that your personal data are not adequately protected or there are indications of misuse, please contact us on privacy form.
+
+Contact us
+
+If you need to contact us to make requests or if you have any questions and concerns about this Statement and/or our privacy practices and processing activities, please contact us via our privacy form or on the contact details set out below.
+
+For Takeaway.com Group B.V. and/or Just Eat Takeaway.com, you can contact the Data Protection Officer here or write to
+
+Piet Heinkade 61
+
+1019 GM Amsterdam
+
+Netherlands
+
+Updates to this Statement
+
+This Statement might change from time to time. If we make any substantial changes in the way we use your personal data we will notify you by posting a prominent announcement on the application.
+
+The most current version of this Statement will govern our use of your data and can be found in the footer of the website or within your app.
+
+Version: September 2026
